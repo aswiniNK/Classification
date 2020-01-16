@@ -1,2 +1,2 @@
-# Classification
-K Nearest Neighbors, Naive Bayes, Logistic Regressions 
+# Classification Basics
+K Nearest Neighbors, TSNE, PCA programs   
